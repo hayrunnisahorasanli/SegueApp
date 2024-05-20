@@ -1,0 +1,2 @@
+# SegueApp
+swift ile geliştirilmiştir.
